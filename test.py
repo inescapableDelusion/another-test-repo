@@ -15,3 +15,5 @@ def fibonacci(n):
 #this is a test in order to stop the [sample] issue
 print("The factorial of 6 is {}.".format(factorial(6))
 print("The 15th fibonacci term is {}.".format(fibonacci(15))
+      
+#this is just for the sample lol
